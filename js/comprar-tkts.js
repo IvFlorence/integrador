@@ -1,12 +1,12 @@
-// Defino valor de ticket
+
 const valorTicket = 200;
 
-// Defino porcentajes de descuento según categoría
+
 let descuentoEstudiante = 80;
 let descuentoTrainee    = 50;
 let descuentoJunior     = 15;
 
-// Elementos en variables
+
 let nombre            = document.getElementById("nombre");
 let divErrorNombre    = document.getElementById("mensajeErrorNombre");
 let apellido          = document.getElementById("apellido");
